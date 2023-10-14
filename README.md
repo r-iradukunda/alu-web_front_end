@@ -1,2 +1,1 @@
-front end
-front end
+# alu-web_front_end
